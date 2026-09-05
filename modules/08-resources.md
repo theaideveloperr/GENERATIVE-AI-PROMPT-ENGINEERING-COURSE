@@ -340,6 +340,7 @@
 
 | Newsletter | Frequency | Link | What It Covers |
 |-----------|-----------|------|----------------|
+| AI Weekly | Three times weekly | [aiweekly.co](https://aiweekly.co/) | What AI experts are reading and sharing across models, agents, research, funding, and policy |
 | The Rundown AI | Daily | therundown.ai | Top AI news, tools, use cases |
 | Ben's Bites | Daily | bensbites.com | AI startups, research, tools |
 | The Batch (DeepLearning.AI) | Weekly | deeplearning.ai/the-batch | Andrew Ng's picks, research |
